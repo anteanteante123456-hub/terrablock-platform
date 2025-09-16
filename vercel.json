@@ -35,7 +35,7 @@
       "maxDuration": 10
     }
   },
-  "regions": ["arn1", "cph1"],
+  "regions": ["arn1"],
   "trailingSlash": false,
   "cleanUrls": true,
   "redirects": [
